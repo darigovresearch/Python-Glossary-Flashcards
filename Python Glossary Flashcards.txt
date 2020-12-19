@@ -1,6 +1,3 @@
-<div class="section" id="glossary">
-<span id="id1"></span><h1>Glossary<a class="headerlink" href="#glossary" title="Permalink to this headline">¶</a></h1>
-<dl class="glossary">
 <dt id="term-0"><code class="docutils literal notranslate"><span class="pre">&gt;&gt;&gt;</span></code></dt><dd><p>The default Python prompt of the interactive shell.  Often seen for code
 examples which can be executed interactively in the interpreter.</p>
 </dd>
@@ -980,5 +977,3 @@ executes the <a class="reference internal" href="#term-bytecode"><span class="xr
 understanding and using the language.  The listing can be found by typing
 “<code class="docutils literal notranslate"><span class="pre">import</span> <span class="pre">this</span></code>” at the interactive prompt.</p>
 </dd>
-</dl>
-</div>
